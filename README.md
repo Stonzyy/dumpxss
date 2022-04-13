@@ -13,4 +13,9 @@ git clone https://github.com/Stonzyy/dumpxss.git
 
 3 - Add list of urls contain Parametrs in url.txt
 
-4 - python3 dumpxss.py
+4 - python3 dumpxss.py urls.txt
+
+
+# Output
+
+Result Saved on output.txt
