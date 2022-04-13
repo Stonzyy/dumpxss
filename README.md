@@ -9,6 +9,8 @@ git clone https://github.com/Stonzyy/dumpxss.git
 
 1 - cd dumpxss
 
+2 - pip3 install -r requirments.txt
+
 2 - Add list of urls contain Parametrs in url.txt
 
 3 - python3 dumpxss.py
